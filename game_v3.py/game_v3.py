@@ -52,4 +52,4 @@ def score_game(test_function) -> float:
     if mean_count:
         return mean_count
          
-print(f"The function 'game_v3' guesses a random number in average of {score_game(game_v3)} attempts")
+print(f"The function 'game_v3' guesses a random number in average of {score_game(game_v3)} attempts.")
